@@ -1,0 +1,21 @@
+{
+    "userlogin": [
+        {
+            "name": "priti",
+            "email": "priti@gmail.com",
+            "password": "12345"
+
+        },
+        {
+            "name": "pratiksha",
+            "email": "pratiksha@gmail.com",
+            "password": "12345"
+
+        },
+        {
+            "email": "prashant@gmail.com",
+            "password": "12345"
+
+        }
+    ]
+}
